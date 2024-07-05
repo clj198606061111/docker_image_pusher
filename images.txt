@@ -1,1 +1,1 @@
-mysql
+docker.getcollate.io/openmetadata/db:1.4.3
